@@ -80,14 +80,5 @@ public class DemoProject {
 	    	
 }
 
-//	private void viewResveration() {
-//		// TODO Auto-generated method stub
-//		
-//	}
-//
-//	private void addReservation(String guestName, int roomNumbers, int numberOfNights) {
-//		// TODO Auto-generated method stub
-//		
-//	}
 
 
